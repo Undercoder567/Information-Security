@@ -1,11 +1,11 @@
 # Information-Security
-#Ujjawal kumar
-#BSc.(H) Computer Science
-#6th Sem,3rd Year
-#Ramanujan College
-#College Roll no:20201441
-#Exam roll no:20020570038
-#Practical
+# Ujjawal kumar
+# BSc.(H) Computer Science
+# 6th Sem,3rd Year
+# Ramanujan College
+# College Roll no:20201441
+# Exam roll no:20020570038
+# Practical
 1. Implement the error correcting code.
 2. Implement the error detecting code.
 3. Implement caeser cipher substitution operation.
